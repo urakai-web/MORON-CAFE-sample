@@ -4,8 +4,8 @@ export const storeData = {
   catchcopy: '長町にある落ち着いた空間',
   description:
     'コーヒーや焼き菓子はもちろん、カレーなどの食事も楽しめるので、カフェ利用だけでなくランチにも',
-  address: '〒000-0000 住所を入力してください',
-  addressMapQuery: '金沢市',
+  address: '〒920-0865 石川県金沢市長町２丁目４−３５ 1F',
+  addressMapQuery: '石川県金沢市長町２丁目４−３５',
   phone: '000-000-0000',
   businessHours: [
     { day: 'ランチ', time: '11:30 〜 14:00', lastOrder: '13:30' },
